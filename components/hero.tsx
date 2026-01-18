@@ -50,7 +50,7 @@ export default function Hero() {
           <div className="relative">
             <div className="aspect-square overflow-hidden rounded-2xl bg-primary-foreground/10 backdrop-blur-sm">
               <img
-                src="/students-learning-computer-programming-in-modern-t.jpg.png"
+                src="/publicstudents-learning-computer-programming-in-modern-t.jpg.png"
                 alt="Students learning at NITS"
                 className="h-full w-full object-cover"
               />
