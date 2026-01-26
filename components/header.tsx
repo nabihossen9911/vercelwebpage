@@ -8,7 +8,10 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-              <span className="text-lg font-bold text-primary-foreground">N</span>
+              <img
+                src="/nitscti_logo.svg"
+                alt="Log of NITSCTI"
+               />
             </div>
             <div className="flex flex-col">
               <span className="text-lg font-bold leading-none">NITS</span>
