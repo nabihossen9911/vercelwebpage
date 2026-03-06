@@ -9,8 +9,8 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
               <img
-                src="/nitscti_logo.svg"
-                alt="Log of NITSCTI"
+                src="/nitscti_Logo.svg"
+                alt="Logo of NITSCTI"
                />
             </div>
             <div className="flex flex-col">
