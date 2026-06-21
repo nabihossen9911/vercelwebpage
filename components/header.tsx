@@ -15,7 +15,7 @@ export default function Header() {
             </div>
             <div className="flex flex-col">
               <span className="text-lg font-bold leading-none">NITS</span>
-              <span className="text-xs text-muted-foreground">Computer Training</span>
+              <span className="text-xs text-muted-foreground">Computer Training Institute</span>
             </div>
           </div>
 
