@@ -105,10 +105,10 @@ export default function Footer() {
           <div>
             <h3 className="mb-4 font-semibold">যোগাযোগ</h3>
             <ul className="space-y-2 text-sm text-muted-foreground">
-              <li>মিরপুর-১০, ঢাকা-১২১৬</li>
-              <li>বাংলাদেশ</li>
-              <li className="pt-2">+৮৮০ ১৭১২-৩৪৫৬৭৮</li>
-              <li>info@nits.edu.bd</li>
+              <li>বরাব বাজার, তারাব পৌরসভা</li>
+              <li>রূপগঞ্জ, নারায়ণগঞ্জ</li>
+              <li className="pt-2">+৮৮০ ১৫৬-৭৮১৮০৩৬</li>
+              <li>nits.nabi@gmail.com</li>
             </ul>
           </div>
         </div>
