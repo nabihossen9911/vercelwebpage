@@ -20,7 +20,7 @@ export default function Footer() {
             </p>
             <div className="mt-4 flex gap-3">
               <a
-                href="#"
+                href="https://www.facebook.com/nitscti"
                 className="flex h-9 w-9 items-center justify-center rounded-full bg-primary/10 text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
               >
                 <Facebook className="h-4 w-4" />
@@ -41,7 +41,7 @@ export default function Footer() {
                 <span className="sr-only">LinkedIn</span>
               </a>
               <a
-                href="#"
+                href="https://www.youtube.com/@nitscti"
                 className="flex h-9 w-9 items-center justify-center rounded-full bg-primary/10 text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
               >
                 <Youtube className="h-4 w-4" />
