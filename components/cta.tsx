@@ -32,8 +32,8 @@ export default function CTA() {
                 <Phone className="h-6 w-6 text-primary" />
               </div>
               <h3 className="mb-2 font-semibold">ফোন করুন</h3>
-              <p className="text-sm text-muted-foreground">+৮৮০ ১৭১২-৩৪৫৬৭৮</p>
-              <p className="text-sm text-muted-foreground">+৮৮০ ১৮১২-৩৪৫৬৭৮</p>
+              <p className="text-sm text-muted-foreground">+৮৮০ ১৫৬৭-৮১৮০৩৬</p>
+              <p className="text-sm text-muted-foreground">+৮৮০ ১৯২৪-৩১৫৫০৪</p>
             </CardContent>
           </Card>
 
@@ -43,8 +43,8 @@ export default function CTA() {
                 <Mail className="h-6 w-6 text-primary" />
               </div>
               <h3 className="mb-2 font-semibold">ইমেইল করুন</h3>
-              <p className="text-sm text-muted-foreground">info@nits.edu.bd</p>
-              <p className="text-sm text-muted-foreground">admission@nits.edu.bd</p>
+              <p className="text-sm text-muted-foreground">nits.nabi@gmail.com</p>
+              <p className="text-sm text-muted-foreground">nabihossen9900@gmail.com</p>
             </CardContent>
           </Card>
 
@@ -54,8 +54,8 @@ export default function CTA() {
                 <MapPin className="h-6 w-6 text-primary" />
               </div>
               <h3 className="mb-2 font-semibold">আমাদের অফিস</h3>
-              <p className="text-sm text-muted-foreground">মিরপুর-১০, ঢাকা-১২১৬</p>
-              <p className="text-sm text-muted-foreground">বাংলাদেশ</p>
+              <p className="text-sm text-muted-foreground">বরাব বাজার, তারাব পৌরসভা</p>
+              <p className="text-sm text-muted-foreground">রূপগঞ্জ, নারায়ণগঞ্জ</p>
             </CardContent>
           </Card>
         </div>
